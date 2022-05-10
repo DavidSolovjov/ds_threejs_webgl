@@ -216,12 +216,7 @@ class Home extends React.Component<{}> {
                     </a>                  
                   <div className='mt-20'>
                   <div>LET&apos;S BE FRIENDS!</div>                
-                  <div className='text-white text-xl md:text-45 font-medium mt-2 flex justify-between items-center'>
-                    <Link href={'https://join.skype.com/invite/mKnpanje9hLM'}>
-                      <a target={'_blank'} className='hover:text-amber-500'>
-                        <FaSkype/>
-                      </a>
-                    </Link>
+                  <div className='text-white text-xl md:text-45 font-medium mt-2 flex justify-between items-center'>                    
                     <Link href={'https://github.com/DavidSolovjov'}>
                       <a target={'_blank'} className='hover:text-amber-500'>
                         <FaGithub/>
@@ -242,6 +237,11 @@ class Home extends React.Component<{}> {
                         <FaDiscord/>
                       </a>
                     </Link> */}
+                    <Link href={'https://join.skype.com/invite/mKnpanje9hLM'}>
+                      <a target={'_blank'} className='hover:text-amber-500'>
+                        <FaSkype/>
+                      </a>
+                    </Link>
                     <Link href={'https://t.me/dsodineum'}>
                       <a target={'_blank'} className='hover:text-amber-500'>
                         <FaTelegram/>
