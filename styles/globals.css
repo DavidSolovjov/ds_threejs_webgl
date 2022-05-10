@@ -27,7 +27,7 @@ body {
 }
 
 #index-canvas-container{  
-  background: linear-gradient(to bottom, #000000, #3aabec);
+  background: linear-gradient(to bottom, #000000, #10e96a);
 }
 
 #service-canvas-container {
@@ -38,7 +38,7 @@ body {
   max-height: 100vh;
   left: 0;
   top: 0;
-  background: linear-gradient(to bottom, #000000, #445174);
+  background: linear-gradient(to bottom, #000000, #071b52);
   /* transform: translate3d(-50%, -40%, 0); */
   z-index: -1;
 }

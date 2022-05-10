@@ -4,7 +4,7 @@ import React, { useState, useEffect } from 'react'
 const Footer = ({}) => {
    
   const sendEmail = () => {    
-    window.open("mailto:aaronchupa610@gmail.com?subject=About Project");
+    window.open("mailto:sspike191919@gmail.com?subject=About Project");
   };
   return (
     <div className="Footer bg-black border-t border-dashed w-full ">
